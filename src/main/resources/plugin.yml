@@ -1,0 +1,8 @@
+name: RandomTP
+version: ${project.version}
+main: com.gmail.andrewandy.randomtp.RandomTP
+api-version: 1.13
+prefix: ""
+load: STARTUP
+authors: [andrewandy]
+description: random TP plugin
